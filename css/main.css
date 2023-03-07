@@ -122,6 +122,10 @@ border: 5px solid #4021A7 !important;
     background: #5865f2 !important;
 }
 
+.yes {
+    background: #392e2b !important;
+}
+
 .dev-logo {
     margin-left: 2vw;
     border-radius: 30vw;
