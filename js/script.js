@@ -36,6 +36,13 @@ parrot.addEventListener("click", function() {
     contactInfo.innerHTML = contactTxt + "undefined@mathstudy.dev";
 });
 
+zebn.addEventListener("click", function() {
+    curtain.style.display = "block";
+    contact.style.background = "#5865f2"
+    contact.style.display = "block";
+    contactInfo.innerHTML = contactTxt + "chromebook@mathstudy.dev";
+});
+
 curtain.addEventListener("click", function() {
     curtain.style.display = "none";
     contact.style.display = "none";
