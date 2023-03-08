@@ -4,6 +4,7 @@ let object = document.getElementById("object");
 let parrot = document.getElementById("parrot");
 let zebn = document.getElementById("zebn");
 let yes = document.getElementById("yes");
+let joshua = document.getElementById("joshua");
 let curtain = document.getElementById("curtain");
 let contact = document.getElementById("contact");
 let contactInfo = document.getElementById("contactInfo");
@@ -50,6 +51,13 @@ yes.addEventListener("click", function() {
     contact.style.background = "#392e2b"
     contact.style.display = "block";
     contactInfo.innerHTML = contactTxt + "yes@mathstudy.dev";
+});
+
+joshua.addEventListener("click", function() {
+    curtain.style.display = "block";
+    contact.style.background = "#388be7"
+    contact.style.display = "block";
+    contactInfo.innerHTML = contactTxt + "joshua@mathstudy.dev";
 });
 
 curtain.addEventListener("click", function() {
