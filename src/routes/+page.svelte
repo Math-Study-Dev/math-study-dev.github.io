@@ -108,7 +108,7 @@
                     <h1 class="scroll-m-20 text-2xl font-extrabold tracking-tight lg:text-2xl text-center">Nailington</h1>
                 </Card.Header>
                 <Card.Content>
-                  <p class="text-center">Hello! My name is George Hammerton! I'm a nearly graduated senior! I love to reques</p>
+                  <p class="text-center">I am a member of MSG who helps out and does small projects. Generally open to requests and will consider PRs and suggestions. Contact info is below.</p>
                 </Card.Content>
                 <div class="flex justify-center">
                     <Card.Footer>
